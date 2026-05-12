@@ -17,12 +17,13 @@ Nota sobre WSL: Este proyecto utiliza la ventana gráfica de OpenCV (cv2.imshow)
 
 Instalación y Uso
 1. Clonar el repositorio
-bashgit clone : https://github.com/AlbertoHiru/Computer-Vision_HR.git
-2. Crear entorno virtual
+bash
+git clone : https://github.com/AlbertoHiru/Computer-Vision_HR.git
+3. Crear entorno virtual
 bash
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-3. Instalar dependencias
+4. Instalar dependencias
 bash:
 pip install -r requirements.txt
 
